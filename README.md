@@ -1,4 +1,4 @@
-# Contracts: Law in the Market Economy
+# Class notes for Lawyering Seminar II
 
 ## About
 
