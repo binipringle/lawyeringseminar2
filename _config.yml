@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Setupš
-title:               'Law and the Market Economy'
+title:               'Lawyering Seminar II'
 tagline:             'class notes spring 2021'
 description:         'This is an experimental way of organizing class notes.'
 url:                 'https://github.com/binipringle'
-baseurl:             '/contracts'
+baseurl:             '/lawyeringseminar2'
 
 # About/contact
 author:
