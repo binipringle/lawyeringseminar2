@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Objectivity - Interpreting Communicative Acts and or Words
+title: Section Two
 author:
 editor: Sabina Pringle
 rights:

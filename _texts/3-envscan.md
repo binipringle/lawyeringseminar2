@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Section Four
+title: Section Three
 author:
 editor: Sabina Pringle
 rights:

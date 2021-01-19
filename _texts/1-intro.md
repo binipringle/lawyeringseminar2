@@ -1,9 +1,9 @@
 ---
 layout: narrative
-title: The Bargain Principle and RST (Second)
+title: Section One
 author:
 editor: Sabina Pringle
-source: Progressive Legal Research by Jonathan Saxon, CUNY School of Law Library
+source:
 toc:
 - Government power and the Law
 - Federal and State jurisdictions
