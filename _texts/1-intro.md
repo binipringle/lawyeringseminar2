@@ -5,8 +5,12 @@ author:
 editor: Sabina Pringle
 source:
 toc:
-- Government power and the Law
+-
 - Federal and State jurisdictions
 - Understanding legal authority
 
 ---
+
+Basic rules for class - where we're headed - rule we've been working from.
+
+Rule statement. Neglect. Think of policy. Think of theme. 
