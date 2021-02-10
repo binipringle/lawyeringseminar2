@@ -65,3 +65,11 @@ Nadine babysit
 Mom was ill
 
 Suggest at least two sets of narrative facts that make the specific event facts more believable / or show how the affiant knows of the specific event facts
+
+---
+
+standard to dismiss (?)
+
+I should find my anchor case - how i want court to find my case
+
+ALSO find the case i'm most afraid of, and argue against that.
