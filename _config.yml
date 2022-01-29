@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Setupš
-title:               'Lawyering Seminar II'
-tagline:             'class notes spring 2021'
-description:         'This is an experimental way of organizing class notes.'
+title:               'Constitutional Structures'
+tagline:             'class notes spring 2022'
+description:         'This is a static website for organizing class notes.'
 url:                 'https://github.com/binipringle'
-baseurl:             '/lawyeringseminar2'
+baseurl:             '/constructs'
 
 # About/contact
 author:
