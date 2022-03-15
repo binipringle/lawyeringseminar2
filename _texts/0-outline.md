@@ -22,6 +22,16 @@ toc:
 - Justiciability
 - Standing
 - Article III "case or controversy" requirement (3 elements)
+- (1) Injury
+- (2) Causation
+- (3) Redressability
+- Prudential limitations
+- Ripeness
+- Mootness
+- Eleventh Amendment State Sovereign Immunity Limitations on Federal Judicial Power
+- Abrogation
+- The meaning of Alden
+- Waiver
 
 ---
 
@@ -230,14 +240,19 @@ Holding and Reasoning (Marshall, C.J.)
 
 Holding and reasoning: (1) Yes. Congress has the constitutional power to charter the Bank of the United States. This power is ultimately derived from the Constitution’s grant to Congress of the general power to “tax and spend” for the general welfare. However, in addition to its enumerated powers, Congress is also given general powers under the Constitution’s Necessary and Proper Clause, which states that Congress may create laws it deems necessary and proper to help carry out its enumerated powers. The Necessary and Proper Clause functions to expand, not limit, Congress’s enumerated powers. Congress decided that chartering the Bank of the United States was a necessary and proper method of raising revenue to carry out its overall taxing and spending powers. (2) No. The Bank was created by federal statute. Maryland may not tax the Bank as a federal institution because federal laws are supreme to state laws. A federally created institution may not be inhibited by a state law. The Bank of the United States functions to serve the entire nation. It is thus inappropriate for it to be controlled by one part of the nation (i.e. Maryland) through a tax. The judgment of the court of appeals is reversed.
 
+---
+
 ## Theories of Constitutional Interpretation
 
 The three major contemporary schools are **originalism** (original intent, original understanding; what is strong originalism?); **representation reinforcement** (“democratic process theory” advanced in various forms in McCulloch and Carolene Products), and **non-originalism** (reliance on “broad principles” of the Constitution, e.g., equality, dignity, rule of law (Brennan, Breyer), or resort to natural law or other political or moral philosophies or principles.)   
+
+---
 
 ## Justiciability
 
 Justiciability asks whether a federal court has the power to hear a particular case.  Justiciability encompasses the doctrines of **standing**, **ripeness** and **mootness** (which examine whether particular parties present a justiciable case or controversy) and the “political question” doctrine (which examines whether the issue or claims presented are appropriate for judicial resolution). I am NOT responsible for Political Question doctrine.
 
+---
 
 ### Standing
 
@@ -247,9 +262,19 @@ Whether the plaintiff has a sufficient stake in the lawsuit to **(1) give rise t
 
 Note the shift in standing doctrine from the Flast-era formulation ("The question [of standing asks] whether a particular person is a proper party to maintain an action [; it] does not, by its own force, raise separation of powers problems related to improper judicial interference in areas committed to other branches of government.  Such problems arise, if at all, from the substantive issues the individual seeks to have adjudicated") to the current Court’s overt reliance on "federalism" and "separation of powers" as justification for a restrictive standing doctrine. (e.g. Lyons; Clapper, Allen v. Wright; Lujan; see Handout No. 3, note A).
 
+---
+
 ### Article III "case or controversy" requirement (3 elements)
 
-1. Injury in fact: plaintiff must show an “injury” that is (a) “concrete” and “particularized” (as opposed to “abstract” and “undifferentiated”); and (b) “actual” or “imminent” (as opposed to “speculative” or “remote”.)
+1. injury
+2. causation
+3. redressability
+
+---
+
+### (1) Injury
+
+Injury in fact: plaintiff must show an “injury” that is (a) “concrete” and “particularized” (as opposed to “abstract” and “undifferentiated”); and (b) “actual” or “imminent” (as opposed to “speculative” or “remote”.)
 
 *What types of harm (harms to what interests) may constitute “injury”?*
 
@@ -276,21 +301,21 @@ From **Spokeo:** an injury is a “concrete injury" if it is:
 
 (What rules emerge from Lujan and Kennedy’s concurrence in that case; from Akins; and from the explanation of “concrete” injury in Spokeo?). Consider these hypos, some of which we discussed in class. Why does the Freedom of Information Act’s authorization of private suits comport with Art. III? (Assume that it does!)  Could Congress grant “every citizen” a “right” to “a federal government that obeys the Constitution” and authorize federal lawsuits by any citizen who alleges her right has been abridged?  (Why not?) Could Congress confer upon each citizen a “right to clean air” and authorize citizens to bring federal suits against any entity (public or private) that acts in ways that abridge that right (including, e.g., governmental failure to enforce the Clean Air Act properly)?  Do you think it matters -- for purposes of the Supreme Court's standing analysis -- whether the "citizen suits" are brought against private parties or against the government? (Why?)  Note the dictum in the Lexmark footnote defining a set of “generalized grievances” that do not satisfy Art III’s “injury” requirement. (Congress may not authorize lawsuits that assert only a “generalized grievance” as narrowly defined in Lexmark.)
 
----
-
-**Threatened injury** can give rise to standing if it is “imminent” and not merely “speculative” or “conjectural”.
+**Threatened injury** can give rise to standing **if it is “imminent”** and not merely “speculative” or “conjectural”.
 
 How imminent or likely to occur must a threatened injury be? What does Clapper say about this?  Note the concession in footnote 5 that the "certainly imminent" standard may not always apply.  Later cases, including Driehaus, alternatively use “significant risk” as the standard for determining whether a threatened injury gives rise to an Art. III case or controversy.  Compare Justice Breyer's explanation in his Clapper dissent.  What role does the subject-matter of the case – here foreign affairs/intelligence gathering – play in how the Court conducts the standing inquiry?)  
 
-2. Causation: the injury must be "fairly traceable" to challenged action.
+### (2) Causation
+
+The injury must be "fairly traceable" to challenged action.
 
 Note the issue of multiple links in the causal chain, especially where some links in the chain involve actions of third parties not before the court (e.g. Allen v. Wright; Linda R.S.; Eastern Kentucky Welfare Rights Organization).  Multiple links in the causal chain between the challenged action and the injury are not necessarily fatal, but the Court will scrutinize such chains to determine if the causal links are strong enough, especially where the suit seeks an order requiring the government to enforce laws against third parties (see e.g., Allen and Lujan, where the Court invoked separation of powers and Art II §3 “take care clause” arguments as justification for applying the causation requirement more strictly).   Note that the court’s characterization of the injury may affect the length of the causal chain and may alter the causation analysis (recall class discussion of Linda R.S. and Bakke.)
 
-3. Redressability: an award of relief to the plaintiff must be likely to redress (cure, mitigate, compensate for) the Art. III injury alleged, at least to some extent.  
+### (3) Redressability
+
+An award of relief to the plaintiff must be likely to redress (cure, mitigate, compensate for) the Art. III injury alleged, at least to some extent.  
 
 Recall the discussion of redressability/causation in Akins where the Court held that plaintiffs satisfied those elements of standing despite the fact that a court order in plaintiffs’ favor might not ultimately redress plaintiffs’ injury (because the FEC retained discretion to excuse AIPAC from FECA’s public disclosure requirements).  Note also the discussion of redressability and "procedural rights" in Lujan footnote 7, making the same point.  
-
----
 
 **Federal Election Commission v. Akins 524 U.S. 11 (1998)** (FEC claimed that American Israel Public Affairs Committee (AIPAC) lacked prudential standing to bring suit because it was not a “political committee” and thus did not have to disclose its members, contributions, and expenditures, as was required of political committees.)
 
@@ -318,21 +343,21 @@ To the extent that the ban on “generalized grievances” described in earlier 
 
 In any event, the bright line rule is that in federal court there is no general "citizen standing" or "taxpayer standing." [Note, just fyi: municipal taxpayers under certain circumstances may have standing to challenge municipal expenditures. (You need not know this exception for the exam.)]
 
-Exceptions:
+**Exceptions:**
 
 (a) To the extent that there is anything left of the “generalized grievance” concept as a prudential limitation, Congress can override this limitation (subject to the standards described in Akins and Spokeo and in the Kennedy concurrence in Lujan.)
 
-(b) Flast v. Cohen:  taxpayers have standing to challenge an exercise of Congress’s Article I, sec. 8 taxing and spending power as violative of First Amendment Establishment Clause. (Note that Hein v. Freedom From Religion Foundation, Inc. (2007) held that taxpayers have no standing to challenge executive branch expenditures as violative of the Establishment Clause.)  
+(b) *Flast v. Cohen*:  taxpayers have standing to challenge an exercise of Congress’s Article I, sec. 8 taxing and spending power as violative of First Amendment Establishment Clause. (Note that *Hein v. Freedom From Religion Foundation, Inc.* (2007) held that taxpayers have no standing to challenge executive branch expenditures as violative of the Establishment Clause.)  
 
 **General bar against plaintiff assertion of the legal rights of third parties not before the Court** (sometimes referred to as rule against jus (right) tertii (third party)).
 
-Understand the justification for this limitation: the idea that the party whose rights are most directly at stake ordinarily should have responsibility and control over litigation of those rights – and that courts should only allow the assertion of a third party’s rights by litigants whose interests are very closely aligned with the right-holder’s, and who can be trusted to advocate vigorously for the third-part’s rights.
+Justification for this limitation is the idea that the party whose rights are most directly at stake ordinarily should have responsibility and control over litigation of those rights. Therefore, courts should only allow the assertion of a third party’s rights by litigants whose interests are **very closely aligned with the right-holder’s**, and who can be trusted to **advocate vigorously** for the third-part’s rights.
 
-Exceptions:
+**Exceptions:**
 
 (a) Congressional override [NB: plaintiff must always meet Art III requirements.]
 
-(b) Where “enforcement of the challenged restriction against the litigant would result indirectly in the violation of third parties’ rights.” (For example, enforcement of the alcohol sales restriction against the Plaintiff bar owner in Craig v. Boren would result indirectly in the violation of the equal protection rights of the 18-20 year old men; or enforcement of criminal statutes prohibiting distributing contraceptives against the Plaintiff medical providers in Griswold would result in violation of their patients’ constitutional privacy and reproductive rights.)
+(b) Where “enforcement of the challenged restriction against the litigant would result indirectly in the violation of third parties’ rights.” (For example, enforcement of the alcohol sales restriction against the Plaintiff bar owner in *Craig v. Boren* would result indirectly in the violation of the equal protection rights of the 18-20 year old men; or enforcement of criminal statutes prohibiting distributing contraceptives against the Plaintiff medical providers in Griswold would result in violation of their patients’ constitutional privacy and reproductive rights.)
 
 (c) Where the challenged statute, regulation, etc. would "preclude or otherwise adversely affect a relationship existing between the litigant and the persons whose rights are violated."  (e.g, the relationship between parochial schools and parents in Pierce v. Society of Sisters;  possibly the vendor-vendee relationship in Craig, or doctor-patient relationship in Griswold). Note that this exception overlaps with the second exception.
 
@@ -342,119 +367,120 @@ Exceptions:
 
 [(*) Historical note:  "Zone-of-interest" test  ("whether the interest sought to be protected by the [litigant] is arguably within the zone of interests to be protected or regulated by the statute or constitutional guarantee in question.")  In Lexmark v. Static Controls (2014), the Supreme Court held that zone-of-interest is no longer to be considered part of standing analysis, but relates instead to whether a particular statute confers a right of action on the plaintiff.  The zone-of-interests test will appear as part of the standing rule statement in many pre-2014 judicial opinions; those rule statements are no longer correct.]   		
 
-	(C)	Significance of City of Los Angeles v. Lyons: plaintiff must demonstrate standing for each element of relief; the fact that the defendant’s action injured an individual in the past does not necessarily give that individual standing to seek a prospective injunction.  Clarify the rule and reasoning of Lyons and the bases for distinguishing it. (Recall NYC Street Crimes Unit case discussed in class).  
+(C)	Significance of *City of Los Angeles v. Lyons*: plaintiff must demonstrate standing for each element of relief; the fact that the defendant’s action injured an individual in the past does not necessarily give that individual standing to seek a prospective injunction.  Clarify the rule and reasoning of Lyons and the bases for distinguishing it. (Recall NYC Street Crimes Unit case discussed in class).  
 
+---
 
-	2.  Ripeness:  An issue of ripeness arises where plaintiff’s injury has yet to occur and may be contingent on future events that may or may not come to pass.  Note the large overlap with standing analysis, which asks whether a “threatened” injury is imminent enough (“certainly impending” / “significant risk”) to satisfy the Art. III injury requirement.  The Supreme Court has recognized that in some cases the standing inquiry is the same as the ripeness inquiry. See Susan B Anthony List v. Driehaus where the Court hinted in dictum that once a plaintiff satisfies the Art. III requirement of “imminent” injury, ripeness doctrine poses no further barrier to justiciability.
+### Ripeness
 
-		The classic case raising a ripeness question is one in which a plaintiff challenges a statutory or regulatory provision before it is actually enforced against that plaintiff.  This is known as an “anticipatory suit” or a “pre-enforcement” challenge.  E.g. the Longshoremen’s’ case.
+An issue of ripeness arises where plaintiff’s injury has yet to occur and may be contingent on future events that may or may not come to pass.  
 
-		The modern ripeness test appeared in Abbott Labs v. Gardener (discussed in the CSS opinions and in Handout 3, note B).  Abbott was a pre-enforcement challenge to FDA regulations that would have required the plaintiff drug company to re-label its pharmaceutical products at substantial expense.  The drug company sought a judicial declaration of the regulations’ invalidity before the FDA sought to enforce the regulations against the company.  Note, absent judicial intervention at this pre-enforcement stage, the plaintiff would be put to the choice of incurring significant expense (in order to abide by the regulations) or intentionally disobeying the regulations at the risk of incurring civil or criminal penalties (in order to have an opportunity to challenge the regulations in court).  The Supreme Court was apparently moved by the drug company’s dilemma and held that the case was ripe.  [Compare the Court’s treatment of the parallel (perhaps sharper) dilemma confronting the workers in the Longshoremen’s’ case and the immigrants in Catholic Social Services.]
+Note the large overlap with standing analysis, which asks whether a “threatened” injury is imminent enough (“certainly impending” / “significant risk”) to satisfy the Art. III injury requirement.  The Supreme Court has recognized that in some cases the standing inquiry is the same as the ripeness inquiry. See *Susan B Anthony List v. Driehaus* where the Court hinted in dictum that once a plaintiff satisfies the Art. III requirement of “imminent” injury, ripeness doctrine poses no further barrier to justiciability.
 
+The classic case raising a ripeness question is one in which a plaintiff challenges a statutory or regulatory provision before it is actually enforced against that plaintiff.  This is known as an “anticipatory suit” or a “pre-enforcement” challenge.  E.g. the Longshoremen’s’ case.
 
+The **modern ripeness test** appeared in *Abbott Labs v. Gardener* (discussed in the CSS opinions and in Handout 3, note B).  Abbott was a pre-enforcement challenge to FDA regulations that would have required the plaintiff drug company to re-label its pharmaceutical products at substantial expense.  The drug company sought a judicial declaration of the regulations’ invalidity before the FDA sought to enforce the regulations against the company.  Note, absent judicial intervention at this pre-enforcement stage, the plaintiff would be put to the choice of incurring significant expense (in order to abide by the regulations) or intentionally disobeying the regulations at the risk of incurring civil or criminal penalties (in order to have an opportunity to challenge the regulations in court).  The Supreme Court was apparently moved by the drug company’s dilemma and held that the case was ripe.  [Compare the Court’s treatment of the parallel (perhaps sharper) dilemma confronting the workers in the Longshoremen’s’ case and the immigrants in Catholic Social Services.]
 
-		The test that emerged from Abbott asks two questions:
+The test that emerged from Abbott asks two questions:
 
-			(1) Whether the claims are "fit for judicial review:" to the extent that a claim raises "purely legal" questions (such as facial challenges to a regulation's or statute’s validity) it is more likely to be found "fit for judicial review" because there is little or no benefit to waiting for additional facts to develop; conversely, if the resolution of the claim seems to turn on factual circumstances that have not fully emerged at the time review is sought (e.g., facts concerning how the challenged law will be applied to and affect the plaintiff), the claim may be deemed unfit for judicial review.
+1. Whether the claims are "fit for judicial review:" to the extent that a claim raises "purely legal" questions (such as facial challenges to a regulation's or statute’s validity) it is more likely to be found "fit for judicial review" because there is little or no benefit to waiting for additional facts to develop; conversely, if the resolution of the claim seems to turn on factual circumstances that have not fully emerged at the time review is sought (e.g., facts concerning how the challenged law will be applied to and affect the plaintiff), the claim may be deemed unfit for judicial review.
 
-			(2)	Whether delaying adjudication will result in hardship to a party: the typical instance of "hardship" is where denying pre-enforcement review will put a party to the choice of risking significant sanctions in order to challenge the allegedly illegal government restriction, or suffering an irremediable deprivation by accepting the restriction.  Abbott is an example of this, as is the Longshoremen’s case and the various cases in which doctors have sought pre-enforcement review of anti-abortion statutes (but see Poe in casebook).  
+2. Whether delaying adjudication will result in hardship to a party. The typical instance of "hardship" is where denying pre-enforcement review will put a party to the choice of risking significant sanctions in order to challenge the allegedly illegal government restriction, or suffering an irremediable deprivation by accepting the restriction.  Abbott is an example of this, as is the Longshoremen’s case and the various cases in which doctors have sought pre-enforcement review of anti-abortion statutes (but see Poe in casebook).  
 
 Note: The court will always consider the probability that the predicted harm will actually occur – either as part of the “fitness” analysis, the “hardship” analysis or as an independent factor.  
 
+Clarify the impact of Catholic Social Services on ripeness doctrine.  What is the meaning of CSS’s distinction between benefit-restricting regulations and behavior-prescribing regulations?  (Note that "benefit" in this sense includes public benefits, admission to public educational institutions, immigration status, public contracts and licenses, etc.) Does a different, more restrictive ripeness analysis apply to the former?  If so, what?  Note the different rule the Court applied in the Northeastern Florida case and in Gratz, where plaintiffs alleged equal protection violations (or denial of equal treatment) in the distribution of a governmental benefit.
 
-	Clarify the impact of Catholic Social Services on ripeness doctrine.  What is the meaning of CSS’s distinction between benefit-restricting regulations and behavior-prescribing regulations?  (Note that "benefit" in this sense includes public benefits, admission to public educational institutions, immigration status, public contracts and licenses, etc.) Does a different, more restrictive ripeness analysis apply to the former?  If so, what?  Note the different rule the Court applied in the Northeastern Florida case and in Gratz, where plaintiffs alleged equal protection violations (or denial of equal treatment) in the distribution of a governmental benefit.
+---
 
+### Mootness
 
-	3.  Mootness:  When the case is no longer a live "case or controversy" because of subsequent events.  
+When the case is no longer a live "case or controversy" because of subsequent events.  
 
-		Note:  The "case and controversy" requirements of Article III must be met at every stage of the litigation, from trial through final disposition on appeal (see Honig v. Doe).  If a case becomes moot while on appeal, what happens to the ruling(s) below? (See Rehnquist concurrence in Honig).
+Note:  The "case and controversy" requirements of Article III must be met at every stage of the litigation, from trial through final disposition on appeal (see Honig v. Doe).  If a case becomes moot while on appeal, what happens to the ruling(s) below? (See Rehnquist concurrence in Honig).
 
 
 Examples of events that could render a claim "moot:"
 
-			(1) 	the legislature might change or repeal the challenged law;
-			(2)	the plaintiff’s circumstances could change (e.g., the 18-20 year old male plaintiffs in Craig v. Boren had all reached their 21st birthdays by the time the case reached the Supreme Court;  the claims were therefore moot as to them).
+1. the legislature might change or repeal the challenged law;
+2. the plaintiff’s circumstances could change (e.g., the 18-20 year old male plaintiffs in Craig v. Boren had all reached their 21st birthdays by the time the case reached the Supreme Court;  the claims were therefore moot as to them).
 
-		Note: in examples (1) and (2) a claim for money damages would normally survive the changed circumstance; i.e., would not be rendered moot.  (Why?)
+Note: in examples (1) and (2) a claim for money damages would normally survive the changed circumstance; i.e., would not be rendered moot.  (Why?)
 
+**Exceptions/Special Cases:**
 
-		Exceptions/Special Cases:
+(1) disputes that are "capable of repetition yet evading review:" two part test: (a) dispute or challenged conduct must by its nature be too short in duration to be fully litigated through trial and appeal (hence "evading review"); and (b) there must be reasonable expectation that dispute will recur (hence "capable of repetition.")  Normally the recurrence must involve the same parties, but the Court has recognized exceptions to the same-parties requirement (see Scalia dissent in Honig).  Classic examples: pregnant woman challenges abortion law, but pregnancy resolved before the case is decided; prospective voters or candidates challenge election procedures, but the election occurs before the case can be litigated to conclusion.  In the voting and abortion contexts, the Court has not required a showing that the dispute may again embroil the same plaintiff.
 
-			(1) disputes that are "capable of repetition yet evading review:" two part test: (a) dispute or challenged conduct must by its nature be too short in duration to be fully litigated through trial and appeal (hence "evading review"); and (b) there must be reasonable expectation that dispute will recur (hence "capable of repetition.")  Normally the recurrence must involve the same parties, but the Court has recognized exceptions to the same-parties requirement (see Scalia dissent in Honig).  Classic examples: pregnant woman challenges abortion law, but pregnancy resolved before the case is decided; prospective voters or candidates challenge election procedures, but the election occurs before the case can be litigated to conclusion.  In the voting and abortion contexts, the Court has not required a showing that the dispute may again embroil the same plaintiff.
+(2)	class actions:  as a general rule, a class action survives the mooting of the named plaintiff's (the class representative’s) claim.  Recall the example from class: had the plaintiffs in Craig v. Boren sought certification of a class consisting of all 18-20 year old men wishing to drink beer in Oklahoma, the claims of the class would have continued to present a live case and controversy even after the class representatives’ claims became moot on their 21st birthdays.   Note, though, that the class representative’s claim must be live at the time the suit is filed and class certification is requested, and the claims of the class members must continue to satisfy the case and controversy requirements.
 
-			(2)	class actions:  as a general rule, a class action survives the mooting of the named plaintiff's (the class representative’s) claim.  Recall the example from class: had the plaintiffs in Craig v. Boren sought certification of a class consisting of all 18-20 year old men wishing to drink beer in Oklahoma, the claims of the class would have continued to present a live case and controversy even after the class representatives’ claims became moot on their 21st birthdays.   Note, though, that the class representative’s claim must be live at the time the suit is filed and class certification is requested, and the claims of the class members must continue to satisfy the case and controversy requirements.
+(3)	defendants' voluntary cessation of challenged conduct normally does not render the case moot so long as the defendant is "free to return to his old ways."  E.g., in response to a lawsuit, a welfare administrator voluntarily suspends the enforcement of a discretionary regulation.  This action does not moot the case.  **A case becomes moot as a result of defendants' voluntary cessation of challenged conduct only if the defendant proves that there is no reasonable likelihood of the conduct recurring.**
 
-			(3)	defendants' voluntary cessation of challenged conduct normally does not render the case moot so long as the defendant is "free to return to his old ways."  E.g., in response to a lawsuit, a welfare administrator voluntarily suspends the enforcement of a discretionary regulation.  This action does not moot the case.  A case becomes moot as a result of defendants' voluntary cessation of challenged conduct only if the defendant proves that there is no reasonable likelihood of the conduct recurring.
+---
 
+## Eleventh Amendment State Sovereign Immunity Limitations on Federal Judicial Power
 
+Eleventh Amendment. The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State.
 
-*** E. Eleventh Amendment: State Sovereign Immunity Limitations on Federal Judicial Power
-	What does the text of the amendment provide?  What is the theoretical basis for the doctrine as the modern Court has elaborated it?
+**Basic parameters of 11th Amendment doctrine:**
 
-	(1)	Basic parameters of 11th Amendment doctrine:
+- {:.indent-2}(a)	11A limits
+- {:.indent-4}(i) federal judicial power; and
+- {:.indent-4}(ii) “presupposes” the existence of state sovereignty principles that limit congressional power to abrogate state sovereign immunity ("11A immunity" or "SSI") in federal court (Seminole) or in state court (Alden); and
+- {:.indent-4}(iii) immunizes state defendants from certain federal administrative proceedings initiated by private parties (Federal Maritime Comm’n).
+- {:.indent-2}(b)	Applies only when a state is the defendant or the "real party in interest" on the defense side.
+- {:.indent-4}(SSI comes into play where the state, a state agency, a state official sued in official capacity, and/or other entities acting as an “arm of the state” are defendants)
+- {:.indent-2}(no SSI if defendant is a county, city, other political subdivision or local official (unless "arm-of-state"), or state officials sued in their individual capacities.)
+- {:.indent-2}(c) No SSI limitation (even if a state is the defendant) where the plaintiff is the United States (including agencies of the U.S.) or another state (cf. Art III, §2)
+- {:.indent-4}No SSI limitation in cases involving any other plaintiff (including foreign states) subject to SSI limitations.
+- {:.indent-2}(d) General rule: state defendants (state, state agency, arm-of-state, state officials in official capacity) are immune from private suits (suits by plaintiffs other than the U.S. or another U.S. state) in any federal or state court or quasi-judicial federal administrative proceeding, unless the state has waived its immunity or Congress has validly abrogated it, or the “Ex Parte Young exception” applies.  
 
-			(a)	11A limits (i): federal judicial power; and, (ii): as the Court has elaborated the doctrine, the 11A “presupposes” the existence of state sovereignty principles that limit congressional power to abrogate state sovereign immunity in federal court (Seminole) or in state court (Alden), and also (iii): immunizes state defendants from certain federal administrative proceedings initiated by private parties (Federal Maritime Comm’n).  
+(a)	11A limits (i): federal judicial power; and, (ii): as the Court has elaborated the doctrine, the 11A “presupposes” the existence of state sovereignty principles that limit congressional power to abrogate state sovereign immunity in federal court (Seminole) or in state court (Alden), and also (iii): immunizes state defendants from certain federal administrative proceedings initiated by private parties (Federal Maritime Comm’n).  
 
-			(b)	Applies only when a state is the defendant or the "real party in interest" on the defense side. State sovereign immunity ("11A immunity" or "SSI") comes into play where the state, a state agency, a state official sued in official capacity, and/or other entities acting as an “arm of the state” are defendants " (see Handout 5, p. 3); no SSI if defendant is a county, city, other political subdivision or local official (unless "arm-of-state"), or state officials sued in their individual capacities.  
+(b)	Applies only when a state is the defendant or the "real party in interest" on the defense side. State sovereign immunity ("11A immunity" or "SSI") comes into play where the state, a state agency, a state official sued in official capacity, and/or other entities acting as an “arm of the state” are defendants " (see Handout 5, p. 3); no SSI if defendant is a county, city, other political subdivision or local official (unless "arm-of-state"), or state officials sued in their individual capacities.  
 
-			(c)	No SSI limitation (even if a state is the defendant) where the plaintiff is the United States (including agencies of the U.S.) or another state (cf. Art III, §2); cases involving any other plaintiff (including foreign states) subject to SSI limitations.
+(c)	No SSI limitation (even if a state is the defendant) where the plaintiff is the United States (including agencies of the U.S.) or another state (cf. Art III, §2); cases involving any other plaintiff (including foreign states) subject to SSI limitations.
 
-			(d) General rule: state defendants (state, state agency, arm-of-state, state officials in official capacity) are immune from private suits (suits by plaintiffs other than the U.S. or another U.S. state) in any federal or state court or quasi-judicial federal administrative proceeding, unless the state has waived its immunity or Congress has validly abrogated it, or the “Ex Parte Young exception” applies.  
+(d) General rule: state defendants (state, state agency, arm-of-state, state officials in official capacity) are immune from private suits (suits by plaintiffs other than the U.S. or another U.S. state) in any federal or state court or quasi-judicial federal administrative proceeding, unless the state has waived its immunity or Congress has validly abrogated it, or the “Ex Parte Young exception” applies.  
 
+**Ex Parte Young exception:** Private plaintiffs may maintain a federal suit against (a) a state official in official capacity; (b) only for “prospective relief;” (c) on a federal law claim (but not on state law claims); (d) unless Congress has expressed an intent to foreclose Ex parte Young suit (see Seminole Tribe).
 
-	(2)	Ex Parte Young exception: Private plaintiffs may maintain a federal suit against (a) a state official in official capacity; (b) only for “prospective relief;” (c) on a federal law claim (but not on state law claims); (d) unless Congress has expressed an intent to foreclose Ex parte Young suit (see Seminole Tribe).
+Schematic view of 11A impact, assuming (a) suit in federal court; (b) against a "state defendant" (see above); (c) commenced by plaintiffs other than the United States or another state; and (d) State has not waived and Congress has not validly abrogated State's sovereign immunity:
 
+*Understand the theory of Ex Parte Young.  Clarify the impact of Seminole Tribe on the availability of Ex Parte Young actions against state officials.  What is the standard for determining whether Congress intended to foreclose an Ex Parte Young suit?*
 
+**What counts as “prospective relief” allowable in Ex parte Young suit?**  Basic rule is that “relief necessary to halt an ongoing violation of federal law” -- and any "ancillary relief" (relief in aid of the primary relief, such as attorneys’ fees or notice to class members) -- is "prospective" relief permitted by the 11th amendment, even if the relief requires expenditures of state funds.   Relief not necessary to halt a present violation of federal law, but that serves only compensatory or deterrent interests, is "retrospective" relief and is not available through an Ex Parte Young suit.  What is the theoretical basis upon which the Supreme Court justifies drawing this line between permitted prospective relief and prohibited retrospective relief?
 
- Schematic view of 11A impact, assuming (a) suit in federal court; (b) against a "state defendant" (see above); (c) commenced by plaintiffs other than the United States or another state; and (d) State has not waived and Congress has not validly abrogated State's sovereign immunity:
+Examples:
 
-				         RELIEF REQUESTED
-	Retrospective
-(e.g. damages)	Prospective
-(e.g. inj’n)
+Edelman: federal court order requiring state, from the date of the order forward, to obey federal law in administering the state’s public assistance program is "prospective" relief; the relief is "necessary to halt an ongoing violation of federal law" and is therefore not barred by the 11A.  By contrast, an order requiring the state to refund all the benefits it illegally withheld in the past is "retrospective" relief; this relief is not necessary to end a continuing violation of federal law, and since the relief would be paid for from the state treasury, it is barred by the 11A.
 
-State Law
-Claim
+Milliken v. Bradley:  federal court order that Michigan fund a special education program to remedy the current effects of past de jure desegregation in the public schools, held to be "prospective" relief; current effects of past unconstitutional behavior said to be present constitutional violation; relief is therefore "necessary to halt an ongoing violation of federal law," even though it addresses harms caused by past unconstitutional state action.  
 
-BARRED
-(Pennhurst/ Edelman)
+---
 
-BARRED
-(Pennhurst)
+### Abrogation
 
-Federal Law Claim
+Congress may "abrogate" (remove, override) a state’s SSI if:
 
-BARRED
-(Edelman)
+(a) Congress "unequivocally" expresses its intent to do so in the text of a statute.  Note: the normal rules of statutory construction do not apply here; the Court will not consider legislative history or resort to usual tools of statutory analysis, even though these may reveal a clear congressional intent to override the 11A (see Seminole Tribe); the statute need not use “magic words” (e.g., abrogation, 11th Amendment, sovereign immunity, etc.) but must make clear that it authorizes private suits against a state defendant.
 
-AVAILABLE
-(Ex parte Young. Nb:
-can’t name state or state agency as ∆)
+(b) Congress has enacted the statute in the exercise of a constitutional power that the Court finds authorizes nullification of SSI. Thus far, the Court has held that Congress has the authority to abrogate SSI under section 5 of the 14th amendment and has suggested in Seminole Tribe and Alden that no Article I power gives Congress the authority to abrogate.  (Why?)  However, in Katz (2006) the Court held that the bankruptcy clause of Article I §8 itself represents a surrender of states’ state sovereign immunity in certain bankruptcy proceedings.
 
+If Congress "abrogates" a state’s 11A immunity/SSI, the state may be sued to the extent of the abrogation in the same manner as any other defendant.  (Abrogation is not "all or nothing."  For instance Congress might decide to authorize suits only against certain state defendants and/or only for some specified relief -- as it did in the Indian Gaming Regulatory Act.)
 
-	Understand the theory of Ex Parte Young.  Clarify the impact of Seminole Tribe on the availability of Ex Parte Young actions against state officials.  What is the standard for determining whether Congress intended to foreclose an Ex Parte Young suit?
+---
 
-	(3)	What counts as “prospective relief” allowable in Ex parte Young suit?  Basic rule is that “relief necessary to halt an ongoing violation of federal law” -- and any "ancillary relief" (relief in aid of the primary relief, such as attorneys’ fees or notice to class members) -- is "prospective" relief permitted by the 11th amendment, even if the relief requires expenditures of state funds.   Relief not necessary to halt a present violation of federal law, but that serves only compensatory or deterrent interests, is "retrospective" relief and is not available through an Ex Parte Young suit.  What is the theoretical basis upon which the Supreme Court justifies drawing this line between permitted prospective relief and prohibited retrospective relief?
+### The meaning of Alden
 
+States have a constitutional immunity from federal law claims brought by individuals in the state’s own courts.  Congress may not abrogate this immunity unless exercising its power under §5 of the 14th amendment (or, presumably, under other powers conferred on Congress at the expense of state autonomy after adoption of the 11th amendment).  Alden holds, in essence, that the same state sovereign immunity rules applicable in federal court apply equally to private suits alleging federal claims against states in their own courts.
 
-			Examples:   Edelman: federal court order requiring state, from the date of the order forward, to obey federal law in administering the state’s public assistance program is "prospective" relief; the relief is "necessary to halt an ongoing violation of federal law" and is therefore not barred by the 11A.  By contrast, an order requiring the state to refund all the benefits it illegally withheld in the past is "retrospective" relief; this relief is not necessary to end a continuing violation of federal law, and since the relief would be paid for from the state treasury, it is barred by the 11A.
+---
 
-			Milliken v. Bradley:  federal court order that Michigan fund a special education program to remedy the current effects of past de jure desegregation in the public schools, held to be "prospective" relief; current effects of past unconstitutional behavior said to be present constitutional violation; relief is therefore "necessary to halt an ongoing violation of federal law," even though it addresses harms caused by past unconstitutional state action.  
+### Waiver
 
+States may "waive" their 11A immunity, but the Court has set an extremely high threshold for finding waiver, and construes waivers narrowly. (As with abrogation, waiver is not "all or nothing."  A state that has waived its immunity may be sued only to the extent of the waiver, which be qualified, e.g., limited to certain forms of relief.)  General waivers of sovereign immunity by a state have been held insufficient to waive 11A immunity; the Supreme Court requires that the state expressly waive its immunity to suit in federal court in order for a federal action to go forward.  The Court will not imply waiver from a state’s participation in a federal program and agreement to obey federal standards, and the Court seems unwilling to find any constructive waiver of state sovereign immunity (e.g. Edelman) except where a State’s litigation actions amount to a consent to federal jurisdiction.  E.g., Lapides v. Bd. of Regents (2002) (implied waiver of SSI where state agency voluntarily removed a lawsuit from state court to federal court).  Congress may require states to waive their 11A immunity as a condition of receiving federal funds, and courts will enforce the waiver if Congress has set forth the condition in very clear terms. (This is in essence another “clear statement rule,” akin to the “clear statement rule” applied in the abrogation context.) (Cf. Pennhurst)
 
-	(4)	Abrogation:  Congress may "abrogate" (remove, override) a state’s SSI if:
-
-		 (a) Congress "unequivocally" expresses its intent to do so in the text of a statute.  Note: the normal rules of statutory construction do not apply here; the Court will not consider legislative history or resort to usual tools of statutory analysis, even though these may reveal a clear congressional intent to override the 11A (see Seminole Tribe); the statute need not use “magic words” (e.g., abrogation, 11th Amendment, sovereign immunity, etc.) but must make clear that it authorizes private suits against a state defendant.
-
-		 (b) Congress has enacted the statute in the exercise of a constitutional power that the Court finds authorizes nullification of SSI. Thus far, the Court has held that Congress has the authority to abrogate SSI under section 5 of the 14th amendment and has suggested in Seminole Tribe and Alden that no Article I power gives Congress the authority to abrogate.  (Why?)  However, in Katz (2006) the Court held that the bankruptcy clause of Article I §8 itself represents a surrender of states’ state sovereign immunity in certain bankruptcy proceedings.
-
-		If Congress "abrogates" a state’s 11A immunity/SSI, the state may be sued to the extent of the abrogation in the same manner as any other defendant.  (Abrogation is not "all or nothing."  For instance Congress might decide to authorize suits only against certain state defendants and/or only for some specified relief -- as it did in the Indian Gaming Regulatory Act.)
-
-	(5) The meaning of Alden:  states have a constitutional immunity from federal law claims brought by individuals in the state’s own courts.  Congress may not abrogate this immunity unless exercising its power under §5 of the 14th amendment (or, presumably, under other powers conferred on Congress at the expense of state autonomy after adoption of the 11th amendment).  Alden holds, in essence, that the same state sovereign immunity rules applicable in federal court apply equally to private suits alleging federal claims against states in their own courts.
-
-	(6) Waiver:  States may "waive" their 11A immunity, but the Court has set an extremely high threshold for finding waiver, and construes waivers narrowly. (As with abrogation, waiver is not "all or nothing."  A state that has waived its immunity may be sued only to the extent of the waiver, which be qualified, e.g., limited to certain forms of relief.)  General waivers of sovereign immunity by a state have been held insufficient to waive 11A immunity; the Supreme Court requires that the state expressly waive its immunity to suit in federal court in order for a federal action to go forward.  The Court will not imply waiver from a state’s participation in a federal program and agreement to obey federal standards, and the Court seems unwilling to find any constructive waiver of state sovereign immunity (e.g. Edelman) except where a State’s litigation actions amount to a consent to federal jurisdiction.  E.g., Lapides v. Bd. of Regents (2002) (implied waiver of SSI where state agency voluntarily removed a lawsuit from state court to federal court).  Congress may require states to waive their 11A immunity as a condition of receiving federal funds, and courts will enforce the waiver if Congress has set forth the condition in very clear terms. (This is in essence another “clear statement rule,” akin to the “clear statement rule” applied in the abrogation context.) (Cf. Pennhurst)
-
-	(7) The meaning of Federal Maritime Comm’n:  states enjoy immunity from federal administrative proceedings that (a) closely resemble judicial proceedings and (b) are initiated by a private party.  What was the Court’s rationale for extending state sovereign immunity principles to administrative proceedings used by the federal executive to enforce federal law?  What elements of the administrative proceeding here led the majority to conclude that the proceedings were functionally indistinguishable from a judicial proceeding?  (Notice that the administrative law judge could not order any immediate relief against the state, but that did not alter the majority’s conclusion.  Why not?)  Can a federal agency subject states to any administrative processes or proceedings after Federal Maritime?  
+The meaning of Federal Maritime Comm’n:  states enjoy immunity from federal administrative proceedings that (a) closely resemble judicial proceedings and (b) are initiated by a private party.  What was the Court’s rationale for extending state sovereign immunity principles to administrative proceedings used by the federal executive to enforce federal law?  What elements of the administrative proceeding here led the majority to conclude that the proceedings were functionally indistinguishable from a judicial proceeding?  (Notice that the administrative law judge could not order any immediate relief against the state, but that did not alter the majority’s conclusion.  Why not?)  Can a federal agency subject states to any administrative processes or proceedings after Federal Maritime?  
 
 
 
